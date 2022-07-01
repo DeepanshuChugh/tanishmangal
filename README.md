@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg)
+![MasterHead](https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg)
 <h1 align="center">Hi 👋, I'm Tanish Mangal</h1>
 <h3 align="center">A Passionate Java Backend Developer From India</h3>
 <img align="right" alt "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
